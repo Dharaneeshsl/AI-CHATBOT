@@ -1,0 +1,4 @@
+# Python dependencies
+flask
+sqlalchemy
+playwright
